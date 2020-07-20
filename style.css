@@ -1,0 +1,13 @@
+html,body{
+     background: #453535;
+}
+
+.jumbotron{
+    background-color: #6545c8d6;
+    margin-bottom: 2rem;
+}
+
+#random-number.text-center{
+    color: white;
+    text-align: center;
+}
